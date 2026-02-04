@@ -7,6 +7,8 @@ Projeto para gerar código HTML e CSS a partir da descrição de um background i
 
 O objetivo é facilitar a criação de estilos visuais, automatizando a geração de uma base de layout conforme o contexto descrito.
 
+Preview: https://diasalana.github.io/fundo-magico/
+
 ## Objetivo
 
 - Gerar estruturas básicas de HTML e CSS
