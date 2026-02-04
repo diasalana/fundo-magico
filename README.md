@@ -34,8 +34,12 @@ O objetivo é facilitar a criação de estilos visuais, automatizando a geraçã
 ```txt
 /
 ├── index.html
-├── style.css
-├── script.js
+├── css/
+│   ├── estilo.css
+│   ├── reset.css
+│   └── responsivo.css
+├── js/
+│   └── index.js
 └── README.md
 
 Status
@@ -43,6 +47,7 @@ Status
 Versão inicial.
 
 Créditos
+
 Projeto desenvolvido como exercício prático de estudos.
 Implementação: Alana Dias Pereira
 
